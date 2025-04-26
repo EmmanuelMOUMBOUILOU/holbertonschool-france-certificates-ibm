@@ -16,4 +16,4 @@ Date of completion: April 22, 2025
 
 Voici une image du certificat Open Source :
 
-![Certification Open Source](certificates-trimester-1/Capture%certification%Open%Source.png)
+![Capture Certification Open Source](certificates-trimester-1/Capture%20certification%20Open%20Source.png)
