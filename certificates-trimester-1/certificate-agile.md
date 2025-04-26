@@ -11,4 +11,4 @@ Date of completion: April 25, 2025
 
 Voici une image du certificat Agile :
 
-![Certification Agile](certificates-trimester-1/certification%20Agile.png)
+![Certification Agile](certificates-trimester-1/Capture%certification%20Agile.png)

@@ -16,4 +16,4 @@ Date of completion: April 22, 2025
 
 Voici une image du certificat Open Source :
 
-![Certification Open Source](https://github.com/EmmanuelMOUMBOUILOU/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certification%20Agile.png)
+![Certification Open Source](certificates-trimester-1/Capture%certification%Open%Source.png)

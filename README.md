@@ -20,7 +20,7 @@ Key topics covered:
 - Collaboration tools and best practices for working with Git and GitHub.
 - Understanding OSS licenses and governance.
 
-You can find the certificate for this course in the file [certificate-oss](certificates-trimester-1/certificate-oss).
+You can find the certificate for this course in the file [certificate-oss](certificates-trimester-1/certificate-oss.md).
 
 ### 2. **Agile Explorer - Powered by Agile at IBM**  
 In this course, I explored **Agile methodology** and its application in real-world work environments.  
@@ -29,7 +29,7 @@ Key topics covered:
 - Scrum, Kanban, and other Agile frameworks.
 - How to implement Agile practices to improve team efficiency and collaboration.
 
-You can find the certificate for this course in the file [certificate-agile](certificates-trimester-1/certificate-agile).
+You can find the certificate for this course in the file [certificate-agile](certificates-trimester-1/certificate-agile.md).
 
 ## Folder Structure
 
