@@ -1,4 +1,4 @@
-# Certificate: Certificate: Project Management Fundamentals
+# Certificate: Project Management Fundamentals
 
 I have completed the **Project Management Fundamentals** course powered by IBM.
 
